@@ -6,6 +6,7 @@ print(True) # 布尔
 print(()) # 元祖
 print([]) # 数组 
 print({}) # 字典
+print(2.33)
 '''
 锄禾日当午
 汗滴禾下土
