@@ -1,4 +1,4 @@
-'''
+
 print("hello world!") # 字符串
 print(2333) # 整数
 print(2.3333) # 小数
@@ -6,6 +6,7 @@ print(True) # 布尔
 print(()) # 元祖
 print([]) # 数组 
 print({}) # 字典
+'''
 锄禾日当午
 汗滴禾下土
 谁知盘中餐
